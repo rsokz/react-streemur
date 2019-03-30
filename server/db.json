@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "Video Commenting",
+      "description": "Commenting on memes",
+      "userID": "114875294238462467768",
+      "id": 1
+    },
+    {
+      "title": "21 Kills Solo | Console - Fortnite Gameplay",
+      "description": "Like and subscribe",
+      "userID": "116447464809477661834",
+      "id": 2
+    },
+    {
+      "title": "Live: Oldest Streamer on Streemur",
+      "description": "Dota 2",
+      "userID": "116447464809477661834",
+      "id": 3
+    },
+    {
+      "title": "Luxe Cup | Day One",
+      "description": "Fortnite",
+      "userID": "114875294238462467768",
+      "id": 4
+    }
+  ]
+}
