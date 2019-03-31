@@ -1,13 +1,30 @@
-<img src="streemur-logo.png" align="right" />
+<!-- PROJECT SHIELDS -->
 
-# Streemur
+[![Contributors][contributors-shield]]()
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-> Stream live video to a personal channel (gaming, tutorials, q&a, etc)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/rsokz/streemur">
+    <img src="streemur-logo.png" alt="Logo" width="74" height="80">
+  </a>
 
-Streemur is a live streaming video platform. The app allows users to create a variety of live video content (video game streaming, broadcasts of eSports competitions, music broadcasts, creative content, etc). Streams are created using OBS software.
+  <h3 align="center">Streemur</h3>
 
-![Screenshot](screenshot.gif)
-![Screenshot2](screenshot2.gif)
+  <p align="center">
+    Stream live video to a personal channel (gaming, tutorials, q&a, etc).
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
 
 ## Live Demo
 
@@ -28,7 +45,7 @@ Streemur is a live streaming video platform. The app allows users to create a va
 - Edit / delete streams
 - Stream live video using [OBS (Open Broadcast Software)](https://obsproject.com/)
 
-## Usage
+## Installation
 
 > Clone
 
@@ -74,3 +91,10 @@ yarn start
 ## To-Do (v2)
 
 - [ ] Connect to a DB
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
