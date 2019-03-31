@@ -77,29 +77,32 @@ class StreamList extends React.PureComponent<Props> {
 
   private renderStreamList = () => {
     const { streams } = this.props;
-    return streams.valueSeq().map(stream => {
-      return (
-        <div
-          className="item"
-          key={stream.id}
-          style={{
-            paddingTop: 15,
-            paddingBottom: 15,
-            paddingRight: 5,
-            paddingLeft: 5
-          }}
-        >
-          {this.renderAdminButtons(stream)}
-          <i className="large middle aligned icon video" />
-          <div className="content">
-            <Link to={`./streams/${stream.id}`} className="header">
-              {stream.title}
-            </Link>
-            <div className="description">{stream.description}</div>
+    return streams
+      .valueSeq()
+      .reverse()
+      .map(stream => {
+        return (
+          <div
+            className="item"
+            key={stream.id}
+            style={{
+              paddingTop: 15,
+              paddingBottom: 15,
+              paddingRight: 5,
+              paddingLeft: 5
+            }}
+          >
+            {this.renderAdminButtons(stream)}
+            <i className="large middle aligned icon video" />
+            <div className="content">
+              <Link to={`./streams/${stream.id}`} className="header">
+                {stream.title}
+              </Link>
+              <div className="description">{stream.description}</div>
+            </div>
           </div>
-        </div>
-      );
-    });
+        );
+      });
   };
 }
 

@@ -42,7 +42,7 @@ class StreamShow extends React.PureComponent<Props> {
     this.buildPlayer();
   }
 
-  public componentWillMount() {
+  public componentWillUnmount() {
     this.player.destroy();
   }
 

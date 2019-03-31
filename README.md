@@ -2,9 +2,11 @@
 
 # Streemur
 
-> Stream live video to a personal channel (gaming, tutorials, q&a, etc).
+> Stream live video to a personal channel (gaming, tutorials, q&a, etc)
 
-![](header.png)
+Streemur is a live streaming video platform. The app allows users to create a variety of live video content (video game streaming, broadcasts of eSports competitions, music broadcasts, creative content, etc). Streams are created using OBS software.
+
+![Screenshot](https://media.giphy.com/media/82PaI9gjyDS4DVnWS2/giphy.gif)
 
 ## Live Demo
 
@@ -27,13 +29,13 @@
 
 ## Usage
 
-Clone
+> Clone
 
 ```sh
 git clone https://github.com/rsokz/streemur
 ```
 
-Start server
+> Start server
 
 ```sh
 cd server
@@ -41,7 +43,7 @@ yarn
 yarn start
 ```
 
-Start RTMP server:
+> Start RTMP server:
 
 ```sh
 cd rtmpserver
@@ -49,7 +51,7 @@ yarn
 yarn start
 ```
 
-Start client:
+> Start client:
 
 ```sh
 cd client
@@ -57,7 +59,7 @@ yarn
 yarn start
 ```
 
-Start streaming with OBS:
+> Start streaming with OBS:
 
 1. Open OBS software
 2. Open settings & update "Stream" settings
