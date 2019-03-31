@@ -6,7 +6,8 @@
 
 Streemur is a live streaming video platform. The app allows users to create a variety of live video content (video game streaming, broadcasts of eSports competitions, music broadcasts, creative content, etc). Streams are created using OBS software.
 
-![Screenshot](https://media.giphy.com/media/82PaI9gjyDS4DVnWS2/giphy.gif)
+![Screenshot](screenshot.gif)
+![Screenshot2](screenshot2.gif)
 
 ## Live Demo
 
