@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rsokz/streemur">
-    <img src="streemur-logo.png" alt="Logo" width="88" height="80">
+    <img src="streemur-logo.png" alt="Logo" width="86" height="80">
   </a>
 
   <h3 align="center">Streemur</h3>
@@ -15,18 +15,15 @@
   <p align="center">
     Stream live video to a personal channel (gaming, tutorials, q&a, etc).
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>View Demo »</strong></a>
   </p>
 </p>
 
-## Live Demo
+## About The Project
+
+![Screenshot](screenshot.gif)
+
+Streemur is a live streaming video platform. The app allows users to create a variety of live video content (video game streaming, broadcasts of eSports competitions, music broadcasts, creative content, etc). Streams are created using OBS software.
 
 ## Features
 
@@ -45,7 +42,9 @@
 - Edit / delete streams
 - Stream live video using [OBS (Open Broadcast Software)](https://obsproject.com/)
 
-## Installation
+## Getting Started
+
+### Installation
 
 > Clone
 
@@ -77,6 +76,8 @@ yarn
 yarn start
 ```
 
+### Usage
+
 > Start streaming with OBS:
 
 1. Open OBS software
@@ -96,5 +97,4 @@ yarn start
 
 [contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
+[linkedin-url]: https://linkedin.com/in/rsokz
