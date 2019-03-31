@@ -15,7 +15,7 @@
   <p align="center">
     Stream live video to a personal channel (gaming, tutorials, q&a, etc).
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>View Demo »</strong></a>
+    <a href="https://github.com/rsokz/awesome-dashboard"><strong>View Demo »</strong></a>
   </p>
 </p>
 
