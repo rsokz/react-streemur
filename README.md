@@ -84,7 +84,7 @@ yarn start
 2. Open settings & update "Stream" settings
 3. Set "Server" to `rtmp://localhost/live`
 4. Create a new stream on the app
-5. Set "Stream Key" to the `id` of your url
+5. Set "Stream Key" to the `id` portion of your created stream url
 6. Start streaming
 
 ## Built With
