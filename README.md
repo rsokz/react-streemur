@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rsokz/streemur">
-    <img src="streemur-logo.png" alt="Logo" width="86" height="80">
+    <img src="logo.png" alt="Logo" width="196" height="90">
   </a>
 
   <h3 align="center">Streemur</h3>
