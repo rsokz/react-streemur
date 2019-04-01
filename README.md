@@ -23,13 +23,13 @@
 
 ![Screenshot](screenshot.gif)
 
-Streemur is a live streaming video platform. The app allows users to create a variety of live video content (video game streaming, broadcasts of eSports competitions, music broadcasts, creative content, etc). Streams are created using OBS software.
+Streemur React app is a live streaming video platform. The app allows users to create a variety of live video content (video game streaming, broadcasts of eSports competitions, music broadcasts, creative content, etc). Streams are created using OBS software.
 
 ## Features
 
 > dev features
 
-- Fully TypeScript Client
+- Fully TypeScript React Client
 - Redux
 - [RTMP Media Server](https://github.com/illuspas/Node-Media-Server)
 - Node Server (JSON)
